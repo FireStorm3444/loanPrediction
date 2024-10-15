@@ -28,11 +28,6 @@ Use the prediction result to make faster, more informed loan decisions.
 Getting Started
 To run the model locally:
 
-Clone the repository.
-bash
-Copy code
-git clone <repository-url>
-Install the required dependencies.
-Copy code
+Clone the repository and then install the requirements manually or just run the below command in your terminal:
 pip install -r requirements.txt
 Run the model on your dataset.
